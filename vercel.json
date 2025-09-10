@@ -1,0 +1,3 @@
+{
+    "rewrite":[{"source":"git/(.*)", "destination":"/index.html"}]
+}
