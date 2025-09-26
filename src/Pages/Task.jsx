@@ -1,6 +1,6 @@
 import React, {useState,useEffect} from 'react';
 import { useParams } from 'react-router-dom';
-import Form from '../components/form';
+import Form from '../components/Form';
 import { taskData } from '../db';
 
 const Task = () => {
